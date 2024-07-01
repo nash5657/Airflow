@@ -1,5 +1,4 @@
 # airflow
-# airflow
 This project is a learning exercise for understanding and working with Apache Airflow. It focuses on writing DAGs (Directed Acyclic Graphs) to automate workflows.
 
 ## Project Structure
