@@ -1,0 +1,462 @@
+[2024-07-01T00:58:04.823+0000] {processor.py:161} INFO - Started process (PID=13191) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T00:58:04.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T00:58:04.824+0000] {logging_mixin.py:188} INFO - [2024-07-01T00:58:04.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T00:58:04.831+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T00:58:04.845+0000] {logging_mixin.py:188} INFO - [2024-07-01T00:58:04.845+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T00:58:04.853+0000] {logging_mixin.py:188} INFO - [2024-07-01T00:58:04.853+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-06-30 00:00:00+00:00, run_after=2024-07-01 00:00:00+00:00
+[2024-07-01T00:58:04.860+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.040 seconds
+[2024-07-01T02:04:05.516+0000] {processor.py:161} INFO - Started process (PID=13213) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T02:04:05.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T02:04:05.517+0000] {logging_mixin.py:188} INFO - [2024-07-01T02:04:05.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T02:04:05.523+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T02:04:05.534+0000] {logging_mixin.py:188} INFO - [2024-07-01T02:04:05.534+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T02:04:05.543+0000] {logging_mixin.py:188} INFO - [2024-07-01T02:04:05.543+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T02:04:05.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.037 seconds
+[2024-07-01T02:54:56.790+0000] {processor.py:161} INFO - Started process (PID=13229) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T02:54:56.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T02:54:56.791+0000] {logging_mixin.py:188} INFO - [2024-07-01T02:54:56.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T02:54:56.799+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T02:54:56.812+0000] {logging_mixin.py:188} INFO - [2024-07-01T02:54:56.812+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T02:54:56.821+0000] {logging_mixin.py:188} INFO - [2024-07-01T02:54:56.821+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T02:54:56.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.041 seconds
+[2024-07-01T04:35:54.862+0000] {processor.py:161} INFO - Started process (PID=13245) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T04:35:54.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T04:35:54.863+0000] {logging_mixin.py:188} INFO - [2024-07-01T04:35:54.863+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T04:35:54.871+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T04:35:54.891+0000] {logging_mixin.py:188} INFO - [2024-07-01T04:35:54.891+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T04:35:54.901+0000] {logging_mixin.py:188} INFO - [2024-07-01T04:35:54.901+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T04:35:54.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.053 seconds
+[2024-07-01T05:40:01.585+0000] {processor.py:161} INFO - Started process (PID=13261) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:40:01.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T05:40:01.586+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:40:01.586+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:40:01.593+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:40:01.606+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:40:01.606+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T05:40:01.615+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:40:01.615+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T05:40:01.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.041 seconds
+[2024-07-01T05:47:42.771+0000] {processor.py:161} INFO - Started process (PID=13277) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:47:42.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T05:47:42.773+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:47:42.772+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:47:42.782+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:47:42.797+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:47:42.797+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T05:47:42.806+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:47:42.806+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T05:47:42.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T05:57:31.877+0000] {processor.py:161} INFO - Started process (PID=13293) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:57:31.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T05:57:31.878+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:57:31.878+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:57:31.887+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T05:57:31.901+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:57:31.901+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T05:57:31.911+0000] {logging_mixin.py:188} INFO - [2024-07-01T05:57:31.911+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T05:57:31.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.106 seconds
+[2024-07-01T06:00:57.701+0000] {processor.py:161} INFO - Started process (PID=13309) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:00:57.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T06:00:57.703+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:00:57.702+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:00:57.711+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:00:57.726+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:00:57.726+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T06:00:57.736+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:00:57.736+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T06:00:57.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T06:06:30.151+0000] {processor.py:161} INFO - Started process (PID=13325) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:06:30.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T06:06:30.152+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:06:30.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:06:30.159+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:06:30.173+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:06:30.172+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T06:06:30.182+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:06:30.182+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T06:06:30.189+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.043 seconds
+[2024-07-01T06:07:00.593+0000] {processor.py:161} INFO - Started process (PID=13341) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:07:00.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T06:07:00.594+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:07:00.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:07:00.603+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:07:00.618+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:07:00.618+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T06:07:00.627+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:07:00.627+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T06:07:00.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T06:07:31.009+0000] {processor.py:161} INFO - Started process (PID=13357) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:07:31.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T06:07:31.010+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:07:31.010+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:07:31.019+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:07:31.033+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:07:31.033+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T06:07:31.043+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:07:31.043+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T06:07:31.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.048 seconds
+[2024-07-01T06:08:01.441+0000] {processor.py:161} INFO - Started process (PID=13373) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:08:01.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T06:08:01.443+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:08:01.443+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:08:01.451+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:08:01.466+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:08:01.466+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T06:08:01.475+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:08:01.475+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T06:08:01.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T06:40:11.246+0000] {processor.py:161} INFO - Started process (PID=13389) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:40:11.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T06:40:11.247+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:40:11.246+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:40:11.253+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T06:40:11.264+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:40:11.264+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T06:40:11.273+0000] {logging_mixin.py:188} INFO - [2024-07-01T06:40:11.273+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T06:40:11.280+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.037 seconds
+[2024-07-01T07:30:45.889+0000] {processor.py:161} INFO - Started process (PID=13405) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:30:45.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:30:45.890+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:30:45.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:30:45.896+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:30:45.907+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:30:45.907+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:30:45.915+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:30:45.915+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:30:45.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.035 seconds
+[2024-07-01T07:31:16.225+0000] {processor.py:161} INFO - Started process (PID=13421) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:31:16.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:31:16.227+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:31:16.226+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:31:16.236+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:31:16.252+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:31:16.252+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:31:16.262+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:31:16.262+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:31:16.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.049 seconds
+[2024-07-01T07:31:46.585+0000] {processor.py:161} INFO - Started process (PID=13437) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:31:46.586+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:31:46.586+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:31:46.586+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:31:46.593+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:31:46.606+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:31:46.606+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:31:46.614+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:31:46.614+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:31:46.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.039 seconds
+[2024-07-01T07:32:16.894+0000] {processor.py:161} INFO - Started process (PID=13453) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:32:16.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:32:16.895+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:32:16.895+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:32:16.902+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:32:16.915+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:32:16.915+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:32:16.923+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:32:16.923+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:32:16.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.038 seconds
+[2024-07-01T07:32:47.221+0000] {processor.py:161} INFO - Started process (PID=13469) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:32:47.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:32:47.223+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:32:47.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:32:47.231+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:32:47.245+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:32:47.245+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:32:47.255+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:32:47.255+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:32:47.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:33:17.558+0000] {processor.py:161} INFO - Started process (PID=13485) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:33:17.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:33:17.559+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:33:17.559+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:33:17.568+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:33:17.582+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:33:17.582+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:33:17.592+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:33:17.592+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:33:17.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T07:33:47.923+0000] {processor.py:161} INFO - Started process (PID=13501) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:33:47.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:33:47.925+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:33:47.925+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:33:47.935+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:33:47.952+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:33:47.952+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:33:47.967+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:33:47.967+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:33:47.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.058 seconds
+[2024-07-01T07:34:18.251+0000] {processor.py:161} INFO - Started process (PID=13517) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:34:18.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:34:18.252+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:34:18.252+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:34:18.260+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:34:18.274+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:34:18.274+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:34:18.283+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:34:18.283+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:34:18.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.043 seconds
+[2024-07-01T07:34:48.608+0000] {processor.py:161} INFO - Started process (PID=13533) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:34:48.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:34:48.609+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:34:48.609+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:34:48.616+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:34:48.629+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:34:48.629+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:34:48.638+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:34:48.638+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:34:48.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.041 seconds
+[2024-07-01T07:35:18.929+0000] {processor.py:161} INFO - Started process (PID=13549) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:35:18.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:35:18.930+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:35:18.930+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:35:18.939+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:35:18.954+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:35:18.954+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:35:18.964+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:35:18.964+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:35:18.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.048 seconds
+[2024-07-01T07:35:49.260+0000] {processor.py:161} INFO - Started process (PID=13565) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:35:49.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:35:49.261+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:35:49.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:35:49.268+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:35:49.280+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:35:49.280+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:35:49.289+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:35:49.289+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:35:49.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.040 seconds
+[2024-07-01T07:36:19.577+0000] {processor.py:161} INFO - Started process (PID=13581) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:36:19.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:36:19.578+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:36:19.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:36:19.584+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:36:19.596+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:36:19.595+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:36:19.604+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:36:19.604+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:36:19.611+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.036 seconds
+[2024-07-01T07:36:49.936+0000] {processor.py:161} INFO - Started process (PID=13597) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:36:49.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:36:49.937+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:36:49.937+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:36:49.946+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:36:49.960+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:36:49.960+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:36:49.970+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:36:49.970+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:36:49.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:37:20.265+0000] {processor.py:161} INFO - Started process (PID=13613) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:37:20.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:37:20.266+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:37:20.266+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:37:20.275+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:37:20.290+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:37:20.289+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:37:20.299+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:37:20.299+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:37:20.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:37:50.556+0000] {processor.py:161} INFO - Started process (PID=13629) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:37:50.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:37:50.557+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:37:50.557+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:37:50.566+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:37:50.580+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:37:50.580+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:37:50.590+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:37:50.590+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:37:50.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:38:20.877+0000] {processor.py:161} INFO - Started process (PID=13645) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:38:20.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:38:20.879+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:38:20.878+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:38:20.887+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:38:20.901+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:38:20.901+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:38:20.910+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:38:20.910+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:38:20.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.044 seconds
+[2024-07-01T07:38:51.202+0000] {processor.py:161} INFO - Started process (PID=13661) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:38:51.203+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:38:51.203+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:38:51.203+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:38:51.212+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:38:51.228+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:38:51.228+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:38:51.238+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:38:51.238+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:38:51.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.049 seconds
+[2024-07-01T07:39:21.561+0000] {processor.py:161} INFO - Started process (PID=13677) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:39:21.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:39:21.562+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:39:21.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:39:21.570+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:39:21.585+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:39:21.585+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:39:21.595+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:39:21.595+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:39:21.602+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:39:51.911+0000] {processor.py:161} INFO - Started process (PID=13693) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:39:51.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:39:51.912+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:39:51.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:39:51.919+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:39:51.932+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:39:51.932+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:39:51.941+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:39:51.941+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:39:51.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.040 seconds
+[2024-07-01T07:40:22.248+0000] {processor.py:161} INFO - Started process (PID=13709) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:40:22.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:40:22.249+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:40:22.249+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:40:22.259+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:40:22.277+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:40:22.277+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:40:22.287+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:40:22.287+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:40:22.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.051 seconds
+[2024-07-01T07:40:52.621+0000] {processor.py:161} INFO - Started process (PID=13725) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:40:52.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:40:52.622+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:40:52.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:40:52.631+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:40:52.645+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:40:52.645+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:40:52.655+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:40:52.655+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:40:52.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:41:22.939+0000] {processor.py:161} INFO - Started process (PID=13741) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:41:22.940+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:41:22.940+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:41:22.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:41:22.948+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:41:22.963+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:41:22.963+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:41:22.972+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:41:22.972+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:41:22.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:41:53.291+0000] {processor.py:161} INFO - Started process (PID=13757) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:41:53.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:41:53.293+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:41:53.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:41:53.301+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:41:53.315+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:41:53.314+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:41:53.324+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:41:53.323+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:41:53.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.044 seconds
+[2024-07-01T07:42:23.633+0000] {processor.py:161} INFO - Started process (PID=13773) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:42:23.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:42:23.634+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:42:23.634+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:42:23.642+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:42:23.656+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:42:23.655+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:42:23.666+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:42:23.666+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:42:23.674+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:42:53.957+0000] {processor.py:161} INFO - Started process (PID=13789) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:42:53.958+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:42:53.959+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:42:53.959+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:42:53.968+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:42:53.982+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:42:53.982+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:42:53.992+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:42:53.992+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:42:53.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:43:24.240+0000] {processor.py:161} INFO - Started process (PID=13805) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:43:24.241+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:43:24.242+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:43:24.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:43:24.250+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:43:24.264+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:43:24.264+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:43:24.274+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:43:24.274+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:43:24.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.044 seconds
+[2024-07-01T07:43:54.498+0000] {processor.py:161} INFO - Started process (PID=13821) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:43:54.499+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:43:54.499+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:43:54.499+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:43:54.507+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:43:54.521+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:43:54.521+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:43:54.531+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:43:54.531+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:43:54.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.043 seconds
+[2024-07-01T07:44:24.811+0000] {processor.py:161} INFO - Started process (PID=13837) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:44:24.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:44:24.812+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:44:24.812+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:44:24.821+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:44:24.836+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:44:24.836+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:44:24.845+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:44:24.845+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:44:24.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T07:44:55.099+0000] {processor.py:161} INFO - Started process (PID=13853) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:44:55.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:44:55.100+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:44:55.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:44:55.109+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:44:55.125+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:44:55.124+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:44:55.135+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:44:55.135+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:44:55.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.048 seconds
+[2024-07-01T07:45:25.458+0000] {processor.py:161} INFO - Started process (PID=13869) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:45:25.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:45:25.459+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:45:25.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:45:25.468+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:45:25.483+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:45:25.482+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:45:25.493+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:45:25.492+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:45:25.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:45:55.823+0000] {processor.py:161} INFO - Started process (PID=13885) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:45:55.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:45:55.824+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:45:55.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:45:55.832+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:45:55.847+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:45:55.847+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:45:55.857+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:45:55.856+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:45:55.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T07:46:26.142+0000] {processor.py:161} INFO - Started process (PID=13901) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:46:26.143+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:46:26.144+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:46:26.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:46:26.153+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:46:26.167+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:46:26.167+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:46:26.177+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:46:26.177+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:46:26.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:46:56.468+0000] {processor.py:161} INFO - Started process (PID=13917) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:46:56.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:46:56.470+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:46:56.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:46:56.479+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:46:56.495+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:46:56.495+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:46:56.506+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:46:56.506+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:46:56.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.050 seconds
+[2024-07-01T07:47:26.825+0000] {processor.py:161} INFO - Started process (PID=13933) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:47:26.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:47:26.826+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:47:26.826+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:47:26.835+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:47:26.851+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:47:26.851+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:47:26.861+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:47:26.861+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:47:26.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.048 seconds
+[2024-07-01T07:47:57.179+0000] {processor.py:161} INFO - Started process (PID=13949) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:47:57.180+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:47:57.180+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:47:57.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:47:57.189+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:47:57.203+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:47:57.203+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:47:57.213+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:47:57.213+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:47:57.219+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:48:27.557+0000] {processor.py:161} INFO - Started process (PID=13965) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:48:27.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:48:27.559+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:48:27.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:48:27.567+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:48:27.582+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:48:27.582+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:48:27.593+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:48:27.592+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:48:27.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T07:48:57.883+0000] {processor.py:161} INFO - Started process (PID=13981) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:48:57.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:48:57.885+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:48:57.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:48:57.892+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:48:57.907+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:48:57.907+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:48:57.917+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:48:57.917+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:48:57.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.044 seconds
+[2024-07-01T07:49:28.181+0000] {processor.py:161} INFO - Started process (PID=13997) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:49:28.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:49:28.182+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:49:28.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:49:28.190+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:49:28.204+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:49:28.204+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:49:28.213+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:49:28.213+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:49:28.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.043 seconds
+[2024-07-01T07:49:58.463+0000] {processor.py:161} INFO - Started process (PID=14013) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:49:58.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:49:58.465+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:49:58.464+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:49:58.473+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:49:58.488+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:49:58.487+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:49:58.497+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:49:58.497+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:49:58.504+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:50:28.817+0000] {processor.py:161} INFO - Started process (PID=14029) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:50:28.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:50:28.819+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:50:28.819+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:50:28.827+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:50:28.842+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:50:28.842+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:50:28.852+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:50:28.852+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:50:28.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T07:50:59.143+0000] {processor.py:161} INFO - Started process (PID=14045) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:50:59.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:50:59.145+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:50:59.145+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:50:59.153+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:50:59.168+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:50:59.168+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:50:59.178+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:50:59.178+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:50:59.185+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:51:29.477+0000] {processor.py:161} INFO - Started process (PID=14061) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:51:29.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:51:29.479+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:51:29.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:51:29.487+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:51:29.502+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:51:29.501+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:51:29.512+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:51:29.512+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:51:29.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.046 seconds
+[2024-07-01T07:51:59.815+0000] {processor.py:161} INFO - Started process (PID=14077) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:51:59.816+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:51:59.817+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:51:59.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:51:59.826+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:51:59.841+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:51:59.841+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:51:59.850+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:51:59.850+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:51:59.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.048 seconds
+[2024-07-01T07:52:30.145+0000] {processor.py:161} INFO - Started process (PID=14093) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:52:30.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:52:30.146+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:52:30.146+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:52:30.155+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:52:30.169+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:52:30.169+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:52:30.179+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:52:30.179+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:52:30.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:53:00.511+0000] {processor.py:161} INFO - Started process (PID=14109) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:53:00.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:53:00.513+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:53:00.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:53:00.521+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:53:00.536+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:53:00.536+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:53:00.545+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:53:00.545+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:53:00.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.045 seconds
+[2024-07-01T07:53:30.928+0000] {processor.py:161} INFO - Started process (PID=14125) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:53:30.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:53:30.929+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:53:30.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:53:30.938+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:53:30.952+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:53:30.952+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:53:30.962+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:53:30.962+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:53:30.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.048 seconds
+[2024-07-01T07:54:01.289+0000] {processor.py:161} INFO - Started process (PID=14141) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:54:01.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:54:01.290+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:54:01.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:54:01.299+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:54:01.314+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:54:01.314+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:54:01.325+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:54:01.325+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:54:01.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:54:31.615+0000] {processor.py:161} INFO - Started process (PID=14157) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:54:31.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:54:31.616+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:54:31.616+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:54:31.624+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:54:31.638+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:54:31.638+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:54:31.647+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:54:31.647+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:54:31.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.043 seconds
+[2024-07-01T07:55:01.956+0000] {processor.py:161} INFO - Started process (PID=14173) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:55:01.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:55:01.958+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:55:01.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:55:01.965+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:55:01.980+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:55:01.980+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:55:01.989+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:55:01.989+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:55:01.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.044 seconds
+[2024-07-01T07:55:32.302+0000] {processor.py:161} INFO - Started process (PID=14189) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:55:32.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:55:32.303+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:55:32.303+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:55:32.312+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:55:32.327+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:55:32.327+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:55:32.336+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:55:32.336+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:55:32.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:56:02.664+0000] {processor.py:161} INFO - Started process (PID=14205) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:56:02.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:56:02.666+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:56:02.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:56:02.675+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:56:02.691+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:56:02.690+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:56:02.701+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:56:02.701+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:56:02.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.049 seconds
+[2024-07-01T07:56:32.999+0000] {processor.py:161} INFO - Started process (PID=14221) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:56:33.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:56:33.001+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:56:33.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:56:33.009+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:56:33.024+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:56:33.024+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:56:33.033+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:56:33.033+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:56:33.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
+[2024-07-01T07:57:03.361+0000] {processor.py:161} INFO - Started process (PID=14237) to work on /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:57:03.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/creat_dag_with_python_operator.py for tasks to queue
+[2024-07-01T07:57:03.363+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:57:03.362+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:57:03.371+0000] {processor.py:840} INFO - DAG(s) 'create_dag_with_python_operator_v06' retrieved from /opt/airflow/dags/creat_dag_with_python_operator.py
+[2024-07-01T07:57:03.386+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:57:03.386+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-01T07:57:03.396+0000] {logging_mixin.py:188} INFO - [2024-07-01T07:57:03.396+0000] {dag.py:3954} INFO - Setting next_dagrun for create_dag_with_python_operator_v06 to 2024-07-01 00:00:00+00:00, run_after=2024-07-02 00:00:00+00:00
+[2024-07-01T07:57:03.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/creat_dag_with_python_operator.py took 0.047 seconds
